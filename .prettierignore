@@ -1,0 +1,31 @@
+# Ignore build output
+dist/
+build/
+
+# Node modules
+node_modules/
+
+# Environment files
+.env
+.env.* 
+
+# Logs
+*.log
+
+# OS/system files
+.DS_Store
+
+# Public/static files
+public/
+static/
+
+# Compiled files
+*.min.js
+*.min.css
+
+# Coverage reports
+coverage/
+
+# Other
+package-lock.json
+yarn.lock
